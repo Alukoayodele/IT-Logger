@@ -1,0 +1,52 @@
+{
+  "logs": [
+    {
+      "id": 2,
+      "message": "Fixed failed hard in work station 002",
+      "attention": false,
+      "tech": "Israel Akinyemi",
+      "date": "2020-05-23T23:58:21.151Z"
+    },
+    {
+      "message": "1122 wireless down",
+      "attention": true,
+      "tech": "Sara Wilson",
+      "date": "2020-05-16T23:45:18.638Z",
+      "id": 3
+    },
+    {
+      "message": "Fixed hard drive at work station #009",
+      "attention": false,
+      "tech": "John Doe",
+      "date": "2020-05-23T19:43:22.717Z",
+      "id": 4
+    }
+  ],
+  "techs": [
+    {
+      "id": 1,
+      "firstName": "John",
+      "lastName": "Doe"
+    },
+    {
+      "id": 2,
+      "firstName": "Sam",
+      "lastName": "Smith"
+    },
+    {
+      "id": 3,
+      "firstName": "Sara",
+      "lastName": "Wilson"
+    },
+    {
+      "firstName": "Israel",
+      "lastName": "Akinyemi",
+      "id": 4
+    },
+    {
+      "firstName": "Ayodele",
+      "lastName": "Aluko",
+      "id": 5
+    }
+  ]
+}
