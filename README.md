@@ -1,0 +1,1 @@
+# IT-Logger- An app for monitoring work done by the members of a company's IT department.The frontend was bootstraped with react, materialized css and Redux for the state mangement while the backend was  bootstraped with json-server, i will added a real backend to the project at a later date. 
